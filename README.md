@@ -17,7 +17,7 @@ Exercise I did for ORIGAMID plataform, learning HTML and CSS
 
 
 # Tech
-- HTML / CSS / JS 
+- HTML / CSS 
 
 
 # Autor 
